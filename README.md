@@ -1,4 +1,4 @@
-# Adha Karamina Achmad
+# Hello world! I am Kara👋 
 Welcome to my GitHub profile! I am Adha Karamina Achmad, a statistics graduate with experience in data analysis and research by academic projects. Here you will find a collection of my projects, code repositories, and contributions in the field of data science.
 
 ## About Me

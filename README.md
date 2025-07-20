@@ -16,7 +16,7 @@ Repository of (nearly) all of my data visualization portfolios.
 I am open to collaboration, discussions, and opportunities in the field of data science and analytics. If you have any questions, suggestions, or would like to connect, feel free to reach out to me via:
 
 Email: adhkaramina@gmail.com  
-LinkedIn: [Adha Karamina Achmad](https://www.linkedin.com/in/adhakara/)
+LinkedIn: [Adha Karamina Achmad](https://www.linkedin.com/in/adhakara/)  
 **Resume/CV**: [View here](https://drive.google.com/drive/folders/1MYyeGEo93X8ozf1DhsfHSHrTOtMzCqcu?usp=drive_link)  
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!🙌

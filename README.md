@@ -8,3 +8,6 @@ I have a solid background in data analysis, machine learning, and statistical mo
 
 ### Project 1: [Customer Segmentation with K-Means](https://github.com/adhkaraa/Customer-segmentation-with-KMeans)  
 This project applies K-Means Clustering to segment customers based on purchasing behavior and demographic features. The objective is to identify distinct customer groups to support more effective marketing strategies.
+
+### Project 2: [Sentiment Analysis of Google Maps Reviews](https://github.com/adhkaraa/Analysis-sentiment-Google-Maps-Review)  
+This project analyzes and visualizes user reviews of international airport in Balikpapan collected from Google Maps. The goal is to classify public sentiment and uncover key insights into passenger perceptions and experiences at the airport.

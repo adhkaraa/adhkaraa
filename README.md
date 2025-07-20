@@ -6,5 +6,5 @@ I have a solid background in data analysis, machine learning, and statistical mo
 
 ## Data Science and AI Engineering Project
 
-**Project 1:** [Customer Segmentation with K-Means](https://github.com/adhkaraa/Customer-segmentation-with-KMeans)  
+###**Project 1:** [Customer Segmentation with K-Means](https://github.com/adhkaraa/Customer-segmentation-with-KMeans)  
 This project applies K-Means Clustering to segment customers based on purchasing behavior and demographic features. The objective is to identify distinct customer groups to support more effective marketing strategies.

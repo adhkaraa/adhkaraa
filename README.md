@@ -6,7 +6,7 @@ I have a solid background in data analysis, machine learning, and statistical mo
 
 ## Project and Repositories
 
-### Project 1: [Data science projects](https://github.com/adhkaraa/data-science-project)  
+### [Data science projects](https://github.com/adhkaraa/data-science-project)  
 Repository of (nearly) all of my data science portfolios.
 
 ## Contact me

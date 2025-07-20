@@ -12,7 +12,7 @@ Repository of (nearly) all of my data science portfolios.
 ## Contact me
 I am open to collaboration, discussions, and opportunities in the field of data science and analytics. If you have any questions, suggestions, or would like to connect, feel free to reach out to me via:
 
-Email: adhkaramina@gmail.com
-LinkedIn: Adha Karamina Achmad
+Email: adhkaramina@gmail.com  
+LinkedIn: [Adha Karamina Achmad](https://www.linkedin.com/in/adhakara/)
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!🙌

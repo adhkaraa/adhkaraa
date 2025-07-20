@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I am Adha Karamina Achmad, a statistics graduate with experience in data analysis and research by academic projects. Here you will find a collection of my projects, code repositories, and contributions in the field of data science.
 
 ## About Me
-I have a solid background in data analysis, machine learning, and statistical modeling. I'm skilled in using Python, R, and SQL to collect, clean, and analyze data from different sources. I enjoy working on projects that include statistical and machine learning models, natural language processing, data visualization, and more.
+I have a solid background in data analysis, machine learning, and statistical modeling. I'm skilled in using Python, R, and SQL to collect, clean, and analyze data from different sources. I enjoy working on projects that include statistical and machine learning models, natural language processing, data visualization, segmentation, and more.
 
 ## Project and Repositories
 

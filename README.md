@@ -9,6 +9,9 @@ I have a solid background in data analysis, machine learning, and statistical mo
 ### [Data science projects](https://github.com/adhkaraa/data-science-project)  
 Repository of (nearly) all of my data science portfolios.
 
+### [Data visualization and Dashboard](https://github.com/adhkaraa/visualization-project)  
+Repository of (nearly) all of my data visualization portfolios.
+
 ## Contact me
 I am open to collaboration, discussions, and opportunities in the field of data science and analytics. If you have any questions, suggestions, or would like to connect, feel free to reach out to me via:
 
